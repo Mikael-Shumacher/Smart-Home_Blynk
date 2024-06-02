@@ -1,1 +1,1 @@
-Maquete de sistema de casa inteligente
+Maquete com sistema de casa inteligente (HOME-IOT)
