@@ -1,7 +1,7 @@
 Sistema completo de casa inteligente usando a placa de desenvolvimento ESP32. 
 
  <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="imgs/movie1.mp4" type="video/mp4">
 </video> 
 
 
