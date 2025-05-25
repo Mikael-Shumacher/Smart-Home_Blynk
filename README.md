@@ -7,8 +7,11 @@
 
 <img src="imgs/img1.jpg">
 
+Instale o aplicativo BLINK IOT em seu dispositivo móvel:
 <img src="imgs/img3.jpg">
 
+Crie um novo modelo IOT
 <img src="imgs/img2.jpg">
 
+Persnalise sua interface:
 <img src="imgs/img4.jpg">
