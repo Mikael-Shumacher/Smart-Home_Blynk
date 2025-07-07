@@ -15,6 +15,6 @@
 <br>
 <img src="imgs/img2.jpg">
 <br>
-<h3>Persnalise sua interface:</h3>
+<h3>Personalise sua interface:</h3>
 <br>
 <img src="imgs/img4.jpg">
